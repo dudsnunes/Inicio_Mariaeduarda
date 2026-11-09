@@ -7,6 +7,6 @@ let valDesconto = preco * desconto
 
 let novoValor = preco * valDesconto
 
-console.log ("O valor será de: " + novoValor.toFixed(2) + "reais"
+console.log ("O valor será de: " + novoValor.toFixed(2) + "reais")
 
 // FIm do Programa
